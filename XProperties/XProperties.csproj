@@ -14,7 +14,9 @@
         <AssemblyVersion>2.0.11</AssemblyVersion>
         <FileVersion>2.0.11</FileVersion>
         <PackageLicenseUrl>https://licenses.nuget.org/LGPL-2.1-only</PackageLicenseUrl>
-        <PackageId>com.DuelitDev.XProperties</PackageId>
+        <PackageId>DuelitDev.XProperties</PackageId>
+        <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+        <SignAssembly>true</SignAssembly>
     </PropertyGroup>
 
 </Project>
