@@ -1,5 +1,5 @@
 # XProperties
-<br>Cross-Language .properties file parser<br>
+Cross-Language .properties file parser  
 XProperties-CSharp
 ## Install
 `Install-Package DuelitDev.XProperties`
