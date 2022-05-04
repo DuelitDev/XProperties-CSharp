@@ -1,5 +1,11 @@
 ﻿/*
-  GNU LESSER GENERAL PUBLIC LICENSE
+ * XProperties (version: 2.0.11)
+ * 
+ * Copyright 2022. Kim-Jaeyun all rights reserved.
+ * 
+ * This library is distributed under the LGPL-2.1 License.
+-------------------------------------------------------------------------------
+                  GNU LESSER GENERAL PUBLIC LICENSE
                        Version 2.1, February 1999
 
  Copyright (C) 1991, 1999 Free Software Foundation, Inc.
@@ -503,6 +509,7 @@ necessary.  Here is a sample; alter the names:
   Ty Coon, President of Vice
 
 That's all there is to it!
+
  */
 
 using System.Collections;
@@ -615,11 +622,11 @@ public class Properties : IEnumerable<string>
             if (pair.Length == 2)
             {
                 var value = LoadConvert(pair[1]);
-                _properties.Add(key, value);
+                _properties[key] = value;
             }
             else
             {
-                _properties.Add(key, "");
+                _properties[key] = "";
             }
         }
     }
