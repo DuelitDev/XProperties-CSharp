@@ -1,5 +1,4 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
     <PropertyGroup>
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
@@ -8,12 +7,13 @@
         <Title></Title>
         <Authors>DuelitDev</Authors>
         <Description>Cross-Language .properties file parser</Description>
-        <Copyright>(C) 2022. Kim Jae-yun all rights reserved.</Copyright>
+        <Copyright>Copyright 2022. Kim-Jaeyun all rights reserved.</Copyright>
         <RepositoryUrl>https://github.com/DuelitDev/XProperties-CSharp</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
-        <AssemblyVersion>2.0.11</AssemblyVersion>
-        <FileVersion>2.0.11</FileVersion>
-        <PackageLicenseUrl>https://licenses.nuget.org/LGPL-2.1-only</PackageLicenseUrl>
+        <AssemblyVersion>2.0.12</AssemblyVersion>
+        <FileVersion>2.0.12</FileVersion>
+        <PackageLicenseUrl></PackageLicenseUrl>
+        <PackageLicenseExpression>LGPL-2.1-or-later</PackageLicenseExpression>
         <PackageId>DuelitDev.XProperties</PackageId>
         <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
         <SignAssembly>true</SignAssembly>
