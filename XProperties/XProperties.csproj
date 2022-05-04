@@ -3,7 +3,7 @@
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <PackageVersion>2.0.11</PackageVersion>
+        <PackageVersion>2.0.12</PackageVersion>
         <Title></Title>
         <Authors>DuelitDev</Authors>
         <Description>Cross-Language .properties file parser</Description>
