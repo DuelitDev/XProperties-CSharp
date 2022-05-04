@@ -3,15 +3,15 @@
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <PackageVersion>2.0.12</PackageVersion>
+        <PackageVersion>2.0.15</PackageVersion>
         <Title></Title>
         <Authors>DuelitDev</Authors>
         <Description>Cross-Language .properties file parser</Description>
         <Copyright>Copyright 2022. Kim-Jaeyun all rights reserved.</Copyright>
         <RepositoryUrl>https://github.com/DuelitDev/XProperties-CSharp</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
-        <AssemblyVersion>2.0.12</AssemblyVersion>
-        <FileVersion>2.0.12</FileVersion>
+        <AssemblyVersion>2.0.15</AssemblyVersion>
+        <FileVersion>2.0.15</FileVersion>
         <PackageLicenseUrl></PackageLicenseUrl>
         <PackageLicenseExpression>LGPL-2.1-or-later</PackageLicenseExpression>
         <PackageId>DuelitDev.XProperties</PackageId>
