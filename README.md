@@ -16,6 +16,6 @@ prop.Load("example.properties");
 Console.WriteLine(prop["example"]);
 ```
 ## Copyright
-Copyright 2022. Kim-Jaeyun all rights reserved.  
+Copyright 2022. Kim Jae-yun all rights reserved.  
 ## License
 [LGPL-2.1 License](https://github.com/DuelitDev/XProperties/blob/master/LICENSE)  
